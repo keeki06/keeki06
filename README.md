@@ -33,15 +33,6 @@ AI Enthusiast | Full Stack Developer | UI/UX Designer
 | Frontend | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
 | Database | <img src="https://skillicons.dev/icons?i=mysql" /> |
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-
----
 
 ## 🚀 Projects
 
