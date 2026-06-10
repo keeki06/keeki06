@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Keerthika</h1>
 
 <h3 align="center">
-AI Enthusiast | Full Stack Developer | UI/UX Designer
+AI Enthusiast | Frontend Developer | Data Engineering
 </h3>
 
 ---
