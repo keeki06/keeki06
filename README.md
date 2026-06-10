@@ -11,17 +11,16 @@ AI Enthusiast | Frontend Developer | Data Engineering
 - 🎓 Engineering Student
 - 💻 Passionate about Web Development
 - 🤖 Interested in Artificial Intelligence
+- 📊 Learning Data Engineering & Data Analytics
 - 🌱 Currently Learning Full Stack Development
 - 🎯 Goal: Become an AI Full Stack Developer
-- 🚀 Love building real-world projects
-
----
+- 🚀 Love Building Real-World Projects
 
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/keeki06
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your Portfolio URL
+- LinkedIn: https://www.linkedin.com/in/keerthika-s-7b9595370
+- LeetCode: https://leetcode.com/u/Keerthika98/
 
 ---
 
