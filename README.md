@@ -35,14 +35,8 @@ AI Enthusiast | Frontend Developer | Data Engineering
 
 ## 🚀 Projects
 
-### 🔹 Super Admin Portal
-Enterprise-grade Catering Management Dashboard.
-
 ### 🔹 EV Adoption Analytics
 Production-ready EV data analytics pipeline.
-
-### 🔹 AI Chatbot
-Intelligent chatbot powered by AI.
 
 ---
 
