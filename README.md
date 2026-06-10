@@ -25,12 +25,13 @@ AI Enthusiast | Full Stack Developer | UI/UX Designer
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ The Arsenal
 
-### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+| 💻 Category | 🚀 Stack |
+|------------|-----------|
+| Languages | <img src="https://skillicons.dev/icons?i=python,java" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
+| Database | <img src="https://skillicons.dev/icons?i=mysql" /> |
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
