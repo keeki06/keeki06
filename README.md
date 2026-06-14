@@ -21,7 +21,7 @@ AI Enthusiast | Frontend Developer | Data Engineering
 - GitHub: https://github.com/keeki06
 - LinkedIn: https://www.linkedin.com/in/keerthika-s-7b9595370
 - LeetCode: https://leetcode.com/u/Keerthika98/
-
+- Portfolio: https://my-portfolio-tan-ten-75.vercel.app
 ---
 
 ## 🛠️ The Arsenal
